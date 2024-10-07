@@ -22,14 +22,14 @@ This Django application identifies the current user accessing the website throug
    ```
 2. **Install Dependencies**
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 3. **Run the Server**
 
-  ```bash
-  python manage.py runserver
-  ```
+     ```bash
+     python manage.py runserver
+     ```
 
 4. **Visit http://127.0.0.1:8000/**
