@@ -18,7 +18,7 @@ This Django application identifies the current user accessing the website throug
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yazin123/veuzTest
+   git clone https://github.com/yazin123/veuzTest.git
    ```
 2. **Install Dependencies**
 
